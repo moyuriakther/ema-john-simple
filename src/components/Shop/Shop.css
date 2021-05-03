@@ -1,9 +1,9 @@
-.shop-container{
+.twin-container{
     display: flex;
 }
 .products-container{
     width: 80%;
-    margin:0px 5px 0px 80px;
+    margin:0px 5px 0px 100px;
     border: 1px solid lightgray;
 }
 .card-container{
